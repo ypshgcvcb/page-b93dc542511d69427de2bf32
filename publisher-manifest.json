@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "cec73485d2c898ca3f44b836",
+  "owner": "ypshgcvcb",
+  "repo": "page-b93dc542511d69427de2bf32",
+  "title": "ARK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b93dc542511d69427de2bf32",
+      "a": "ARK",
+      "b": "clash verge服务商官网",
+      "entity": "ARK",
+      "brand": "ARK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4777e1c51851cb50e2a71a60818a09533531a1eab044a7adcc484c42800b82c0",
+      "content": {
+        "primary_entity": "ARK",
+        "keyword1": "ARK",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器设备可分别挑选客户端。",
+          "AI_CLIENTS_TITLE": "挑客户端",
+          "AI_CLOSING_TEXT": "挑好套餐再匹配客户端，订阅配置按文档完成。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期来选。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB 流量、5 台设备在线，并带 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由。按年付时，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "按设备数量、流量与线路需求来挑套餐。",
+          "AI_FEATURES_TITLE": "先用三点看清配置",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按日常设备数量来选。",
+          "AI_FEATURE_TEXT_2": "从每月 100GB 到 1000GB，按流媒体、下载与日常网页用量估算。",
+          "AI_FEATURE_TEXT_3": "按年付比按月付更省，基础版 ¥150/年、旗舰版 ¥350/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先定套餐，再对设备，最后配订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "ARK 提供基础版、旗舰版与团队版三档订阅，覆盖个人多设备到团队高带宽场景。按每月流量、同时在线设备数与线路需求选择，再依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "设备、流量与线路一步选齐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "设备数量分层清晰",
+          "AI_HIGHLIGHT_3": "旗舰版带专线加速",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版适合 5 台设备流媒体与游戏，团队版适合 20 台设备高流量场景。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "核对手机、电脑或路由器的系统版本与适配要求，确认可安装的客户端。",
+          "AI_STEP_TEXT_3": "打开对应客户端，依其文档添加订阅地址并选择节点，保存后连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ARK 订阅选配",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别 ¥150、¥350、¥850，日常使用旗舰版比较均衡。",
+          "AI_FAQ_ANSWER_2": "先确认常用设备数量和每月大概流量，再对比套餐的设备数与流量额度。旗舰版支持 5 台设备，适合手机加电脑同时在线。",
+          "AI_FAQ_ANSWER_3": "按年付只需要支付十个月的费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_4": "按设备选择客户端：桌面端和移动端分别有对应的客户端程序，具体适配情况以客户端文档说明为准，配置订阅后即可使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先或专属支持渠道，团队版还有专属客户经理。基础版可提交工单获取帮助。",
+          "AI_FAQ_INTRO": "套餐差异、订阅周期与设备适配。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何选择适合自己设备的套餐？",
+          "AI_FAQ_QUESTION_3": "按年付比按月付划算多少？",
+          "AI_FAQ_QUESTION_4": "订阅后怎么在设备上配置？",
+          "AI_FAQ_QUESTION_5": "支持哪些方式获取售后帮助？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cf60bd2817df61dab90b935368fa890ab3af1367a10420c53715fe3254a7c992",
+    "sitemap.xml": "4b7f095a593193287eafa2959ad7ed2f6d038be6ae269e7ab0c6ba7e9e62257b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c18cc985aec2bf7fd1551b5c5aeb328a6251bcf1db3d54c47a1912819c35c257"
+}
